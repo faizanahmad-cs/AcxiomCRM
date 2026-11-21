@@ -48,5 +48,4 @@ Thumbs.db
 *.log
 *.sqlite3
 
-# Archived Old Academic Project (do not push to GitHub)
-old_academic_performance_analytics/
+
