@@ -118,6 +118,9 @@ python run_crm.py
 - **FastAPI Interactive Docs (Swagger)**: [http://localhost:8000/docs](http://localhost:8000/docs)
 - **FastAPI ReDoc**: [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
+# I deployed on Render.
+link to open click here: https://acxiomcrm-ptfu.onrender.com
+
 Alternatively:
 - Launch only Streamlit: `python run_crm.py --ui-only`
 - Launch only FastAPI API: `python run_crm.py --api-only`
@@ -158,6 +161,9 @@ python -m unittest acxiom_crm/tests/test_rest_api.py
 All 18 automated test cases run and pass with 0 errors.
 
 ---
+
+# I deployed on Render
+link : https://acxiomcrm-ptfu.onrender.com
 
 ## 📡 REST API Quickstart
 
